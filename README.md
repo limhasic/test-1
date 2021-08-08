@@ -6,4 +6,4 @@
 ㅇ작성 소스 추가예정
 
 
-![cat](.images/cat.jpg)
+![cat](./images/cat.jpg)
